@@ -3,7 +3,7 @@ UnrealEngine 4 blueprints, system records animations into text files and plays t
 
 
 AnimationRecorder.uasset And Record.uasset:   
-Files used to load animations and save them into .txt files, set the files as game blueprint and animation blueprint then play animation with correct scale of time set and enter animation names. After finished create txt to matrix script in physicsAnimationThingy
+Files used to load animations and save them into .txt files, set the files as game blueprint and animation blueprint then play animation with correct scale of time set and enter animation names. After finished run the txt to matrix script in physicsAnimationThingy on the exported txt file.
 
 
 physicsAnimationThingy.uasset:    
